@@ -1,4 +1,4 @@
-Project Overview
+# Project Overview
 
 The House Price Prediction system is designed to:
 - Analyze housing datasets
@@ -9,7 +9,7 @@ The House Price Prediction system is designed to:
 
 This project showcases a practical application of regression in data science and serves as a great beginner-to-intermediate level project for machine learning practitioners.
 
-Methodology
+# Methodology
 
 The development process includes the following steps:
 
@@ -37,14 +37,14 @@ The development process includes the following steps:
 6. Prediction Interface  
    - Script or GUI to input parameters and get price prediction
 
-Installation & Setup
+# Installation & Setup
 
 Requirements
 
 - Python 3.7 or higher
 - pip (Python package manager)
 
-Install Dependencies
+# Install Dependencies
 
 pip install -r requirements.txt
 If requirements.txt is missing, manually install:
@@ -52,10 +52,10 @@ If requirements.txt is missing, manually install:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-Libraries Used
+# Libraries Used
 Library	                    	         Purpose
-pandas            		  Data manipulation and analysis
-numpy	                   	 Numerical operations
-matplotlib/seaborn		   Data visualization
-scikit-learn	      		  Machine learning algorithms
-pickle (optional)	 	  Model serialization
+pandas            		     Data manipulation and analysis
+numpy	                   	   Numerical operations
+matplotlib/seaborn		         Data visualization
+scikit-learn	      		    Machine learning algorithms
+pickle (optional)	 	            Model serialization
